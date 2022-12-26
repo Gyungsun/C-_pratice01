@@ -1,0 +1,4 @@
+﻿  01.cpp
+C:\Users\nobody\Desktop\C++Practice\01.cpp(78,2): error C2059: 구문 오류: 'return'
+C:\Users\nobody\Desktop\C++Practice\01.cpp(79,2): error C2059: 구문 오류: '}'
+C:\Users\nobody\Desktop\C++Practice\01.cpp(79,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
